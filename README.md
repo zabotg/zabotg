@@ -2,8 +2,6 @@
 
 <a href="https://github.com/zabotg"><img src="https://img.shields.io/github/followers/zabotg.svg?label=GitHub&style=social" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/guilhermezabot/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-
-![](https://img.buzzfeed.com/buzzfeed-static/static/2017-12/7/13/asset/buzzfeed-prod-fastlane-01/anigif_sub-buzz-31301-1512671166-3.gif)
 <!--
 **zabotg/zabotg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
