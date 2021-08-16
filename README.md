@@ -12,7 +12,7 @@ I have a degree in computer science and I'm a master's at the University of São
 ```javascript
 const zabot = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", ".NET"],
+    code: ["Javascript", "Python", "Java", "C#"],
     askMeAbout: ["web dev", "tech", "app dev", "data science", "databases"],
     technologies: {
         backEnd: {
