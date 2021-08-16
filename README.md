@@ -20,10 +20,10 @@ const zabot = {
             python: ["Django", "Flask"]
         },
         devOps: ["AWS", "Azure", "Docker🐳", "Kubernetes"],
-        databases: ["MySql", "Sqlite", "Dynamodb", "PostgreSql"],
+        databases: ["MySql", "Sqlite", "Dynamodb", "PostgreSql"]
     },
     architecture: ["Serverless Architecture", "Microservices"],
-    currentFocus: ["Web App Development", "Teamwork"]
+    currentFocus: ["Web App Development", "Teamwork"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
