@@ -16,7 +16,7 @@ const zabot = {
     askMeAbout: ["Web dev", "Tech", "App dev", "Data science", "Data analysis"],
     technologies: {
         backEnd: {
-            js: ["Node", "Fastify", "Express"],
+            js: ["Node", "Fastify", "Express", "Nest"],
             python: ["Django", "Flask"]
         },
         devOps: ["AWS", "Azure", "Docker🐳", "Kubernetes"],
