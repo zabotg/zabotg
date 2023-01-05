@@ -3,7 +3,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@ZabotGuilherme-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ZabotGuilherme)](https://twitter.com/ZabotGuilherme) [![Linkedin Badge](https://img.shields.io/badge/-@guilhermezabot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermezabot/)](https://www.linkedin.com/in/guilhermezabot/)
 
-Nice to meet you! My name is Guilherme. I currently work as an IT Analyst at [@Ambush](https://www.getambush.com/).
+Nice to meet you! My name is Guilherme. I currently work as an Software Engineer at [@Ambush](https://www.getambush.com/).
 
 I have a degree in computer science and I'm a master's at the University of São Paulo (USP).
 
